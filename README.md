@@ -1,2 +1,2 @@
 # micropython-duckdns
-Simple DuckDNS client using esp32 dev board running micropython
+Simple DuckDNS client using esp32 dev board running micropython based on the script of [tistaharahap](https://gist.github.com/tistaharahap) https://gist.github.com/tistaharahap/b2348551f1382200aa78
